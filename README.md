@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelolpz
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning google ads, google analytics, javascript, jquery
+- 🌱 I’m currently learning google ads, google analytics, javascript, jquery, Nodejs, Angular, HTML, CSS
 - 💞️ I’m looking to collaborate on with any organization that helps me to grow
 - 📫 How to reach me. You can reach me with my email marcelolpz15@gmail.com
 
